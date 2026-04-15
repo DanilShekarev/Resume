@@ -15,6 +15,7 @@ shekarev-danil@mail.ru · [GitHub](https://github.com/DanilShekarev) · [Telegra
 - Инструменты: Git, Notion, RenderDoc
 - Работа с графикой: Shader Graph, Compute Shader, HLSL
 - Мультиплеер: Mirror, Photon
+- Backend / сети: REST API, HTTP, JSON, интеграция клиент-серверных сервисов
 - Дополнительно: алгоритмы, архитектура, оптимизация, обучаемость
 
 ---
