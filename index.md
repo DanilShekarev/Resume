@@ -6,7 +6,7 @@ title: Резюме
 # Данила Щекарев
 ## Senior Unity Developer
 <img src="images/avatar.jpg" width="150" style="border-radius: 50%;" />  
-shekarev-danil@mail.ru · [GitHub](https://github.com/DanilShekarev) · [Telegram](https://t.me/DanilSheka)
+shekarevdanil@gmail.com · [GitHub](https://github.com/DanilShekarev) · [Telegram](https://t.me/DanilSheka)
 
 ## Навыки
 
